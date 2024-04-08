@@ -5,6 +5,9 @@ Maths teacher turned web developer of 6 years now and no turning back! 👨🏼�
 I'm an avid problem-solver with a passion for devloping web applications in JavaScript.
 I mainly work with Vue JS nowadays but my background was as a Full Stack PHP developer.
 
+## Experience
+Whilst my portfolio site is WIP, please see [here](https://github.com/rswindells/rswindells/blob/main/portfolio.pdf) for a portfolio deck of what I've been up to.
+
 ## Skills 
 Vue JS | Tailwindcss | GSAP | TypeScript | Laravel
 
